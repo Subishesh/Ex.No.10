@@ -1,66 +1,234 @@
-# Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+# **Ex.No.10 – Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns**
 
-## Aim:
-To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
+## **Date:** 25.05.2025
 
-## Procedure:
-1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
-○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
-○	Decision Making: Asking the model to choose between options or directions.
-○	Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer.
-○	Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies.
-○	Tail Generation: Extending the content logically to create depth in storytelling or analysis.
-○	Menu Actions: Presenting multiple action choices and guiding the AI to select one.
-○	Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
-2.	Choosing the Content Type: Decide on the type of content you want to create. This could be:
-○	Reports (e.g., industry analysis, sustainability reports, etc.)
-○	Case Studies (e.g., business solutions, technological innovations)
-○	Articles (e.g., opinion pieces, educational articles)
-○	Creative Content (e.g., comic book story, short stories, video scripts)
-3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
-4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
-○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
-5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
-○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
-○	For creative content, refine the initial story idea with specific details on characters, settings, or actions.
-6.	Review and Evaluation: After generating content, evaluate the outputs for:
-○	Coherence: Is the generated content logical and structured?
-○	Creativity/Originality: Is the content engaging and fresh?
-○	Accuracy: Is the content factually accurate (for reports and case studies)?
-○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
-________________________________________
-Test Case Scenarios for Content Generation: (USE ANY 2)
-content generation scenarios:
-1.	Business Report on Market Trends
-2.	Case Study on Business Success
-3.	Article on Climate Change
-4.	Creative Writing - Sci-Fi Short Story
-5.	Educational Report on Renewable Energy
-6.	Product Launch Announcement
-7.	Travel Blog Post
-8.	Research Paper on Artificial Intelligence
-9.	Interview Transcript for Documentary
-10.	Sustainability Practices in Fashion
-11.	How to Build an E-commerce Website
-12.	Social Issue Awareness Campaign
-13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+## **Reg. No.:** 212223230220
 
-## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+## Aim
 
-## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+To demonstrate how various prompting techniques such as Query Decomposition, Decision Making, Answer Engineering, Fact Check List, Tail Generation, Menu Actions, and Semantic Filtering can be used to generate high-quality content including articles, reports, case studies, and creative works using ChatGPT. The experiment aims to show how prompt design influences the quality, structure, creativity, and accuracy of generated content.
+
+---
+
+## Procedure
+
+### 1. Understanding Prompt Patterns
+
+The following prompt patterns were studied and applied:
+
+| Prompt Pattern      | Description                                                   |
+| ------------------- | ------------------------------------------------------------- |
+| Query Decomposition | Breaking a complex task into smaller manageable parts         |
+| Decision Making     | Asking the model to select the best option among alternatives |
+| Answer Engineering  | Providing detailed formatting and structural instructions     |
+| Fact Check List     | Ensuring factual correctness of generated content             |
+| Tail Generation     | Extending generated content logically                         |
+| Menu Actions        | Offering multiple content directions for selection            |
+| Semantic Filter     | Controlling tone, style, audience, and accuracy               |
+
+---
+
+### 2. Selected Content Generation Scenarios
+
+#### Scenario 1: Article on Climate Change
+
+Objective:
+Generate an informative and engaging article explaining climate change, its causes, impacts, and possible solutions.
+
+#### Scenario 2: Creative Writing – Sci-Fi Short Story
+
+Objective:
+Generate a science-fiction story featuring advanced technology, futuristic settings, and an engaging plot.
+
+---
+
+## Scenario 1: Article on Climate Change
+
+### Step 1: Basic Prompt
+
+**Prompt:**
+Generate an article about climate change.
+
+### First Draft Output
+
+Climate change refers to long-term changes in Earth's temperature and weather patterns. Human activities such as burning fossil fuels have increased greenhouse gas concentrations in the atmosphere, leading to global warming. Climate change affects ecosystems, weather patterns, sea levels, and biodiversity. Reducing emissions and adopting sustainable practices can help mitigate its effects.
+
+---
+
+### Step 2: Refined Prompt Using Answer Engineering
+
+**Prompt:**
+Write a 500-word article on climate change with the following sections:
+
+* Introduction
+* Causes
+* Effects
+* Solutions
+* Conclusion
+
+Use formal language suitable for college students.
+
+### Refined Output
+
+The generated article included structured headings, detailed explanations, examples, and a formal academic style.
+
+---
+
+### Step 3: Applying Fact Check List
+
+**Prompt:**
+Review the article and verify:
+
+1. Causes of climate change
+2. Impact on sea levels
+3. Greenhouse gases involved
+4. Suggested solutions
+
+Correct any inaccuracies.
+
+### Improved Output
+
+The article was revised with accurate scientific information and updated terminology.
+
+---
+
+### Step 4: Applying Semantic Filter
+
+**Prompt:**
+Rewrite the article for high-school students using simple language and practical examples.
+
+### Output
+
+The article became easier to understand while maintaining factual accuracy.
+
+---
+
+### Final Version
+
+A well-structured educational article explaining climate change, its causes, impacts, and solutions using accurate and accessible language.
+
+---
+
+## Scenario 2: Creative Writing – Sci-Fi Short Story
+
+### Step 1: Basic Prompt
+
+**Prompt:**
+Write a short science-fiction story.
+
+### First Draft Output
+
+A brief story about humans discovering a mysterious planet with advanced technology.
+
+---
+
+### Step 2: Applying Query Decomposition
+
+**Prompt:**
+Generate:
+
+1. Main character
+2. Setting
+3. Conflict
+4. Technology involved
+5. Story ending
+
+### Output
+
+* Character: Captain Aryan
+* Setting: Mars Colony 2150
+* Conflict: Artificial intelligence rebellion
+* Technology: Quantum communication system
+* Ending: Peace achieved through human-AI cooperation
+
+---
+
+### Step 3: Applying Decision Making
+
+**Prompt:**
+Choose one conflict:
+A. Alien invasion
+B. AI rebellion
+C. Time-travel paradox
+
+Explain why it creates the most engaging story and continue with it.
+
+### Output
+
+The AI selected "AI Rebellion" because it presents ethical dilemmas and technological challenges relevant to future society.
+
+---
+
+### Step 4: Applying Tail Generation
+
+**Prompt:**
+Extend the story by adding:
+
+* Unexpected plot twist
+* Final confrontation
+* Epilogue
+
+### Output
+
+Additional chapters were generated, creating a complete narrative with greater depth and suspense.
+
+---
+
+### Step 5: Applying Semantic Filter
+
+**Prompt:**
+Rewrite the story in a cinematic style suitable for a graphic novel audience.
+
+### Output
+
+The story adopted vivid descriptions, dramatic dialogue, and visual storytelling elements.
+
+---
+
+### Final Version
+
+A complete sci-fi short story featuring:
+
+* Futuristic Mars colony
+* Advanced AI systems
+* Human-AI conflict
+* Plot twists
+* Meaningful conclusion
+
+---
+
+## Review and Evaluation
+
+### Scenario 1: Climate Change Article
+
+| Criteria    | Evaluation     |
+| ----------- | -------------- |
+| Coherence   | Excellent      |
+| Accuracy    | High           |
+| Structure   | Well Organized |
+| Readability | Good           |
+| Tone        | Educational    |
+
+### Scenario 2: Sci-Fi Story
+
+| Criteria              | Evaluation |
+| --------------------- | ---------- |
+| Creativity            | Excellent  |
+| Originality           | High       |
+| Story Flow            | Good       |
+| Character Development | Moderate   |
+| Engagement            | Excellent  |
+
+---
+
+## Results
+
+The experiment demonstrated that prompt engineering techniques significantly improve content quality. Structured prompts produced more coherent, accurate, and engaging outputs than simple prompts. Advanced techniques such as Query Decomposition, Semantic Filtering, and Tail Generation enhanced both informational and creative content generation.
+
+---
+
+## Conclusion
+
+This experiment successfully demonstrated the use of prompt patterns for content creation. By progressively refining prompts and applying techniques such as Query Decomposition, Decision Making, Answer Engineering, Fact Checking, Tail Generation, Menu Actions, and Semantic Filtering, high-quality content was generated for both educational and creative applications. The results show that effective prompt engineering plays a crucial role in guiding AI systems toward producing accurate, coherent, and engaging content tailored to specific requirements.
+ivity, depth, coherence, and accuracy.
